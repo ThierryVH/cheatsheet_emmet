@@ -102,6 +102,36 @@ textarea {
   margin-bottom: 40px;
 }
 
+/* ##########   Mise en avant des <em>   ########## */
+
+em{
+  color: grey;
+}
+
+#HTML em{
+  background-color:rgba(255,255,255,0.8);
+  border-radius: 5px;
+  padding: 5px 7px;
+}
+
+.ligne1, .ligne2{
+  margin-top: 30px;
+}
+
+/* ##########   Titres   ########## */
+
+h4{
+  margin-top: 40px;
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 5px;
+  padding:7px;
+}
+
+h3{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
 
 
 
